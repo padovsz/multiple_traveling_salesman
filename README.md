@@ -1,13 +1,13 @@
-## Projeto 3 de TI326 - Inteligência Artificial
+## Projeto 1 de TI326 - Inteligência Artificial
 
 ## 🧑‍🎓 Integrantes
 
+* Letícia Fochi Juliani (https://github.com/lelejuliani)
 * Maria Eduarda de Jesus Padovan (https://github.com/padovsz)
-* Vítor Silveira de Lucena (https://github.com/EoCraftus)
 
 ## 📝 Descrição
 
-Este projeto tem como objetivo implementar o algoritmo Minimax em um jogo da velha (Tic-Tac-Toe) para otimizar a tomada de decisões do computador durante a partida. O Minimax é um algoritmo de busca em árvore que analisa todos os possíveis movimentos futuros em um jogo, permitindo ao jogador otimizar sua estratégia, minimizando a perda máxima em cenários adversos.
+O projeto tem como objetivo desenvolver soluções para o problema de múltiplos caixeiros viajantes, um desafio complexo na área de otimização combinatória. Essa problemática envolve a determinação da rota mais eficiente para um grupo de caixeiros que devem visitar um conjunto de cidades, minimizando a distância total percorrida.
 
 ## 📋 Licença
 
